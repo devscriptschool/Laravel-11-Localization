@@ -10,7 +10,7 @@ DevScriptSchool Provide trusted resource for all things PHP, Laravel, CodeIgnite
 - **[Getting Started with CodeIgniter](https://www.devscriptschool.com/category/framwork/codeigniter/)** - Learn CodeIgniter, a powerful PHP framework, with our beginner to advanced tutorials.
 - **[Mastering PHP](https://www.devscriptschool.com/category/web-development/php/)** - Enhance your PHP skills with our in-depth tutorials and examples.
 - **[Web Development Basics](https://www.devscriptschool.com/category/web-development/)** - Perfect for beginners, this series introduces foundational web development concepts and techniques.
-- **[Mastering WordPress](https://www.devscriptschool.com/mastering-wordpress/)** - Discover WordPress development, from custom themes to plugins, tailored for all levels.
+- **[Mastering WordPress](https://www.devscriptschool.com/category/web-development/wordpress/)** - Discover WordPress development, from custom themes to plugins, tailored for all levels.
 
 ## 🛠 Topics We Cover
 
